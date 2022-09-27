@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MusicALL Recognizer</string>
+    <string name="home">Home</string>
+    <string name="msg_listening">Listening…</string>
+    <string name="label_history">History</string>
+    <string name="label_sort">Sort</string>
+    <string name="msg_start">Tap to listen</string>
+    <string name="msg_try_again_title">No Result</string>
+    <string name="msg_try_again_action">Try again</string>
+    <string name="msg_error">Something went wrong</string>
+    <string name="label_install">Install</string>
+    <string name="label_cancel">Cancel</string>
+    <string name="text_request_language_files">You have to install this language so we can translate. Install?</string>
+    <string name="msg_try_again_desc">Sorry we didn\'t catch that clearly</string>
+</resources>

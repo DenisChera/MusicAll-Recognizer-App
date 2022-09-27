@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/history"
+        android:title="@string/label_sort"
+        app:showAsAction="ifRoom|collapseActionView" >
+        <menu>
+            <item
+                android:id="@+id/sort"
+                android:title="Sort A to Z"
+                android:icon="@drawable/alpha_up_48"
+                android:orderInCategory="100"/>
+
+            <item
+                android:id="@+id/sortReverse"
+                android:title="Sort Z to A"
+                android:icon="@drawable/alpha_up_reversed_48"
+                android:orderInCategory="100"/>
+
+            <item
+                android:id="@+id/sortDef"
+                android:title="Default"
+                android:orderInCategory="100"/>
+        </menu>
+    </item>
+</menu>

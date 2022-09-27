@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+    <FrameLayout
+        android:id="@+id/root_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/close_activity"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentStart="true"
+                    android:paddingStart="10dp"
+                    android:paddingTop="10dp"
+                    android:src="@mipmap/ic_close"
+                    android:tint="#E42626" />
+
+                <ImageView
+                    android:id="@+id/downloadPdf"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_alignParentRight="true"
+                    android:tint="#4118D8"
+                    android:src="@drawable/ic_download" />
+
+                <ImageView
+                    android:id="@+id/deleteItem"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="50dp"
+                    android:src="@drawable/ic_delete"
+                    android:tint="#8B090659" />
+
+                <ImageView
+                    android:id="@+id/color_picker"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="90dp"
+                    android:src="@drawable/ic_baseline_color_lens_24"
+                    android:tint="#FFE141" />
+
+                <ImageView
+                    android:id="@+id/font_styles"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="130dp"
+                    android:src="@drawable/ic_font"
+                    android:tint="#000000" />
+
+                <ImageView
+                    android:id="@+id/speech"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="170dp"
+                    android:src="@drawable/ic_mic"
+                    android:tint="#000000" />
+
+                <ImageView
+                    android:id="@+id/translate"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="210dp"
+                    android:src="@drawable/ic_translate"
+                    android:visibility="gone"/>
+
+            </RelativeLayout>
+            <TextView
+                android:id="@+id/txtTitle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Perfect"
+                android:textColor="@color/black"
+                android:textSize="20dp"
+                android:gravity="center"
+                android:textStyle="bold"/>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginTop="5dp">
+                <TextView
+                    android:id="@+id/txtArtist"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="artist: Unknown"
+                    android:textAppearance="?attr/textAppearanceBody1"
+                    android:textColor="@color/black"
+                    android:textStyle="bold"/>
+                <View
+                    android:layout_width="0dp"
+                    android:layout_height="1dp"
+                    android:layout_weight="1"/>
+                <TextView
+                    android:id="@+id/txtRelease"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?attr/textAppearanceCaption"
+                    android:text="2017-03-03"
+                    android:textColor="@color/black"
+                    android:textStyle="bold"/>
+            </LinearLayout>
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+                    <TextView
+                        android:id="@+id/txtLyrics"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Lyrics"
+                        android:textColor="@color/black"
+                        android:layout_marginTop="20dp"
+                        android:textAppearance="?attr/textAppearanceBody1"
+                        android:gravity="center"/>
+                </LinearLayout>
+            </ScrollView>
+
+        </LinearLayout>
+
+    </FrameLayout>
+
+</RelativeLayout>

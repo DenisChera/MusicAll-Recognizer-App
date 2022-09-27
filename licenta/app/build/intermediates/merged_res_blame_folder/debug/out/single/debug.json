@@ -1,0 +1,414 @@
+[
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/drawable_ic_font.xml.flat",
+        "source": "com.denis.music_rec.app-main-38:/drawable/ic_font.xml"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-xxxhdpi_default_image.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-xxxhdpi/default_image.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-xxhdpi_action_like__gray.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-xxhdpi/action_like__gray.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-xxxhdpi_action_like__gray.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-xxxhdpi/action_like__gray.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/layout_view_music.xml.flat",
+        "source": "com.denis.music_rec.app-main-38:/layout/view_music.xml"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-mdpi_action_like_accent.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-mdpi/action_like_accent.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-xhdpi_default_image.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-xhdpi/default_image.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-xxxhdpi_action_like_accent.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-xxxhdpi/action_like_accent.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.denis.music_rec.app-pngs-31:/drawable-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-hdpi_ic_close.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-hdpi/ic_close.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-hdpi_ic_home.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-hdpi/ic_home.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/layout_activity_main.xml.flat",
+        "source": "com.denis.music_rec.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-xxxhdpi_action_add.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-xxxhdpi/action_add.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-hdpi_action_add.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-hdpi/action_add.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-xxhdpi_ic_favourite.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-xxhdpi/ic_favourite.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-hdpi_action_like__gray.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-hdpi/action_like__gray.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.denis.music_rec.app-pngs-31:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-xhdpi_ic_history.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-xhdpi/ic_history.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/drawable_ic_baseline_music_note_24.xml.flat",
+        "source": "com.denis.music_rec.app-main-38:/drawable/ic_baseline_music_note_24.xml"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-xxxhdpi_ic_close.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-xxxhdpi/ic_close.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/drawable_border_button.xml.flat",
+        "source": "com.denis.music_rec.app-main-38:/drawable/border_button.xml"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-mdpi_ic_favourite.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-mdpi/ic_favourite.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/layout_fragment_not_found.xml.flat",
+        "source": "com.denis.music_rec.app-main-38:/layout/fragment_not_found.xml"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/xml_backup_rules.xml.flat",
+        "source": "com.denis.music_rec.app-main-38:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-mdpi_action_like__gray.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-mdpi/action_like__gray.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/anim_do_not_move.xml.flat",
+        "source": "com.denis.music_rec.app-main-38:/anim/do_not_move.xml"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-hdpi_action_like_accent.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-hdpi/action_like_accent.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.denis.music_rec.app-pngs-31:/drawable-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/drawable_ic_translate.xml.flat",
+        "source": "com.denis.music_rec.app-main-38:/drawable/ic_translate.xml"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-xhdpi_default_image_round.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-xhdpi/default_image_round.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-xxhdpi_ic_close.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-xxhdpi/ic_close.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-mdpi_action_add.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-mdpi/action_add.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/xml_data_extraction_rules.xml.flat",
+        "source": "com.denis.music_rec.app-main-38:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/layout_music_item.xml.flat",
+        "source": "com.denis.music_rec.app-main-38:/layout/music_item.xml"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.denis.music_rec.app-pngs-31:/drawable-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-mdpi_default_image.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-mdpi/default_image.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/drawable_ic_baseline_color_lens_24.xml.flat",
+        "source": "com.denis.music_rec.app-main-38:/drawable/ic_baseline_color_lens_24.xml"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/layout_fragment_history.xml.flat",
+        "source": "com.denis.music_rec.app-main-38:/layout/fragment_history.xml"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/drawable_ic_mic.xml.flat",
+        "source": "com.denis.music_rec.app-main-38:/drawable/ic_mic.xml"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.denis.music_rec.app-main-38:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.denis.music_rec.app-pngs-31:/drawable-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-hdpi_default_image_round.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-hdpi/default_image_round.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/anim_fab_close.xml.flat",
+        "source": "com.denis.music_rec.app-main-38:/anim/fab_close.xml"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-xhdpi_ic_close.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-xhdpi/ic_close.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-xhdpi_action_like__gray.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-xhdpi/action_like__gray.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "com.denis.music_rec.app-pngs-31:/drawable-ldpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-xxxhdpi_ic_favourite.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-xxxhdpi/ic_favourite.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-xhdpi_ic_home.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-xhdpi/ic_home.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-xxhdpi_ic_home.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-xxhdpi/ic_home.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-xxxhdpi_ic_history.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-xxxhdpi/ic_history.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-xxhdpi_default_image_round.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-xxhdpi/default_image_round.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-hdpi_default_image.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-hdpi/default_image.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/anim_rotate_forward.xml.flat",
+        "source": "com.denis.music_rec.app-main-38:/anim/rotate_forward.xml"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-hdpi_ic_history.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-hdpi/ic_history.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/layout_fragment_main.xml.flat",
+        "source": "com.denis.music_rec.app-main-38:/layout/fragment_main.xml"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-mdpi_ic_home.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-mdpi/ic_home.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-mdpi_ic_history.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-mdpi/ic_history.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/drawable_ic_add.xml.flat",
+        "source": "com.denis.music_rec.app-main-38:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/drawable_bg_label.xml.flat",
+        "source": "com.denis.music_rec.app-main-38:/drawable/bg_label.xml"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/drawable_back_music.xml.flat",
+        "source": "com.denis.music_rec.app-main-38:/drawable/back_music.xml"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.denis.music_rec.app-pngs-31:/drawable-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-xhdpi_ic_favourite.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-xhdpi/ic_favourite.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/menu_menu_history.xml.flat",
+        "source": "com.denis.music_rec.app-main-38:/menu/menu_history.xml"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-xxxhdpi_ic_home.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-xxxhdpi/ic_home.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-xxhdpi_action_like_accent.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-xxhdpi/action_like_accent.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/drawable_alpha_up_reversed_48.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/drawable/alpha_up_reversed_48.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-mdpi_default_image_round.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-mdpi/default_image_round.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-xxhdpi_default_image.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-xxhdpi/default_image.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-xxhdpi_ic_history.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-xxhdpi/ic_history.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/drawable_ic_download.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/drawable/ic_download.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/anim_rotate_backward.xml.flat",
+        "source": "com.denis.music_rec.app-main-38:/anim/rotate_backward.xml"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-xxhdpi_action_add.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-xxhdpi/action_add.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/layout_activity_history.xml.flat",
+        "source": "com.denis.music_rec.app-main-38:/layout/activity_history.xml"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-xhdpi_action_like_accent.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-xhdpi/action_like_accent.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-mdpi_ic_close.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-mdpi/ic_close.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/layout_activity_not_found.xml.flat",
+        "source": "com.denis.music_rec.app-main-38:/layout/activity_not_found.xml"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-hdpi_ic_favourite.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-hdpi/ic_favourite.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/anim_fab_open.xml.flat",
+        "source": "com.denis.music_rec.app-main-38:/anim/fab_open.xml"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/drawable_ic_delete.xml.flat",
+        "source": "com.denis.music_rec.app-main-38:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/layout_activity_music.xml.flat",
+        "source": "com.denis.music_rec.app-main-38:/layout/activity_music.xml"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/drawable_ic_empty.xml.flat",
+        "source": "com.denis.music_rec.app-main-38:/drawable/ic_empty.xml"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/layout_fragment_music.xml.flat",
+        "source": "com.denis.music_rec.app-main-38:/layout/fragment_music.xml"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/drawable_input_background.xml.flat",
+        "source": "com.denis.music_rec.app-main-38:/drawable/input_background.xml"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/menu_menu_main.xml.flat",
+        "source": "com.denis.music_rec.app-main-38:/menu/menu_main.xml"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-xhdpi_action_add.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-xhdpi/action_add.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/layout_activity_detail.xml.flat",
+        "source": "com.denis.music_rec.app-main-38:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-xxxhdpi_default_image_round.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-xxxhdpi/default_image_round.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.denis.music_rec.app-merged_res-36:/drawable_alpha_up_48.png.flat",
+        "source": "com.denis.music_rec.app-main-38:/drawable/alpha_up_48.png"
+    }
+]

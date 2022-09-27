@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="colorAccent">@color/teal_700</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">MusicALL Recognizer</string>
+    <string name="home">Home</string>
+    <string name="label_cancel">Cancel</string>
+    <string name="label_history">History</string>
+    <string name="label_install">Install</string>
+    <string name="label_sort">Sort</string>
+    <string name="msg_error">Something went wrong</string>
+    <string name="msg_listening">Listening…</string>
+    <string name="msg_start">Tap to listen</string>
+    <string name="msg_try_again_action">Try again</string>
+    <string name="msg_try_again_desc">Sorry we didn\'t catch that clearly</string>
+    <string name="msg_try_again_title">No Result</string>
+    <string name="text_request_language_files">You have to install this language so we can translate. Install?</string>
+    <style name="ShapeAppearanceOverlay.Button.Circle" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+    <style name="Theme.Musicrecognition" parent="Theme.MaterialComponents">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+    </style>
+</resources>
