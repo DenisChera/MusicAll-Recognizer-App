@@ -7,7 +7,7 @@ MusicAll Recognition is an application similar to Shazam, but which brings a ser
 - History of recognized songs
 - Sorting songs in history alphabetically
   
-The application was developed in Android Studio and the ACRCloud and ChartLyrics APIs were used to recognize songs and display lyrics, respectively.
+The application was developed in Android Studio (Java + SQLite) and the ACRCloud and ChartLyrics APIs were used to recognize songs and display lyrics, respectively.
 
 # Recognition Process
 <img width="507" height="172" alt="recognition" src="https://github.com/user-attachments/assets/491dab4c-e59c-4e0f-8e92-ab1efa0b80cf" />
