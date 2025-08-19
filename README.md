@@ -1,6 +1,6 @@
 # Description
  
-MusicAll Recognition is an application similar to Shazam, but which brings a series of new features such as:
+MusicAll Recognizer is an application similar to Shazam, but which brings a series of new features such as:
 - Saving song details and lyrics in pdf format
 - Customizing the content of the "Details" screen (dark mode or light mode)
 - Text-to-speech functionality
